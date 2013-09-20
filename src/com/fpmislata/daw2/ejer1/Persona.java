@@ -51,7 +51,7 @@ public class Persona {
         return Nombre+" "+Apellido1;
     }
    
-     public String setNombreCompleto(String NombreCompleto){      
+     public void setNombreCompleto(String NombreCompleto){      
         this.NombreCompleto= NombreCompleto;        
     }
     
