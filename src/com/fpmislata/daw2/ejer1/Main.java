@@ -1,5 +1,5 @@
-//Primero hacemos un commit y despues un push
-
+//Primero hacemos un commit del codigo y despues un push hacia la pagina de git
+// Gitblit aplicacion git server local
 
 package com.fpmislata.daw2.ejer1;
 
